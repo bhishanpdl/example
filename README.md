@@ -25,11 +25,10 @@ You can also browse the (un-executed) notebooks here in this repo:
 * **[Read the Docs](https://bhishans-example.readthedocs.io/en/latest/)**
 
 
-## People
+## Authors
 
 * [Bhishan Poudel](https://github.com/bhishanpdl/example/issues/new?body=@bhishanpdl) (Ohio University)
 
-## License, Contributing etc
-
+## LICENCE
 The code in this repo is available for re-use under the MIT license, 
 which means that you can do whatever you like with it, just don't blame us. 
