@@ -20,10 +20,10 @@ To make sure you are running the latest version, you can rebuild the Binder `exa
 
 You can also browse the (un-executed) notebooks here in this repo:
 
-* **[Basic  Demo](http://htmlpreview.github.io/?https://github.com/bhishanpdl/example/blob/master/docs/notebooks/demo.html)** [(raw notebook)](https://github.com/bhishanpdl/example/blob/master/docs/notebooks/demo.ipynb)
+* **[Basic  Demo](http://htmlpreview.github.io/?https://github.com/bhishanpdl/example/blob/html/demo.html)** [(raw notebook)](https://github.com/bhishanpdl/example/blob/master/docs/notebooks/demo.ipynb)
 
 
-Also: [Read the Docs](http://bpexample.readthedocs.io/)
+Also: [Read the Docs](https://bhishans-example.readthedocs.io/en/latest/)
 
 
 ## People
