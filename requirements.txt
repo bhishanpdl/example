@@ -1,6 +1,7 @@
 matplotlib
 numpy
 pandas
+seaborn
 pathos
 scipy
 sklearn
