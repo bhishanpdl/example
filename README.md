@@ -1,8 +1,8 @@
-# example
+# Repo: Example
 
-This is an example project.
+This is an example project to practice read the docs.
 
-[![Build Status](https://travis-ci.org/aimalz/qp.svg?branch=master)](https://travis-ci.org/bhishanpdl/example)[![Documentation Status](http://readthedocs.org/projects/bpexample/badge/?version=latest)](http://bpexample.readthedocs.io/en/latest/?badge=latest)
+[![Build Status](https://travis-ci.org/bhishanpdl/example.svg?branch=master)](https://travis-ci.org/bhishanpdl/example)[![Documentation Status](http://readthedocs.org/projects/bpexample/badge/?version=latest)](http://bpexample.readthedocs.io/en/latest/?badge=latest)
 
 
 ## Motivation
@@ -12,13 +12,12 @@ This repository exists for following reasons.
 
 ## Examples
 
-You can run the `example` IPython notebooks live over the web at [Binder](http://mybinder.org):
+You can run the demo IPython notebooks live over the web at [Binder](http://mybinder.org):
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/bhishanpdl/example)
 
-To make sure you are running the latest version, you can rebuild the Binder `example` installation [here](http://mybinder.org/status/bhishanpdl/example).
 
-You can also browse the (un-executed) notebooks here in this repo:
+You can also browse the notebooks and examples provided in this repo at following places:
 
 * **[Demo HTML](http://htmlpreview.github.io/?https://github.com/bhishanpdl/example/blob/master/docs/notebooks/demo.html)**
 * **[Demo Raw Notebook](https://github.com/bhishanpdl/example/blob/master/docs/notebooks/demo.ipynb)**
