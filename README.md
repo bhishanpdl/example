@@ -6,18 +6,19 @@ This is an example project to practice read the docs.
 
 
 ## Motivation
-This repository exists for following reasons.
+This repository exists for following reasons:
 
 1. To practive github integration with read the docs.
+2. To use Travis CI (contiguous integration).
 
 ## Examples
 
-You can run the demo IPython notebooks live over the web at [Binder](http://mybinder.org):
+We can run the demo IPython notebooks live over the web at [Binder](http://mybinder.org):
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/bhishanpdl/example)
 
 
-You can also browse the notebooks and examples provided in this repo at following places:
+We can also browse the notebooks and examples provided in this repo at following places:
 
 * **[Demo HTML](http://htmlpreview.github.io/?https://github.com/bhishanpdl/example/blob/master/docs/notebooks/demo.html)**
 * **[Demo Raw Notebook](https://github.com/bhishanpdl/example/blob/master/docs/notebooks/demo.ipynb)**
