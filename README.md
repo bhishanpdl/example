@@ -8,7 +8,7 @@ This is an example project to practice read the docs.
 
 Note: 
 1. To get the badge for Travis, sign in to [Travis](https://travis-ci.org/), click on the badge of your project and copy it.
-2. To get the badge for RDT, sign in to [Read The Docs](https://readthedocs.org/accounts/login/), then go the project,
+2. To get the badge for RTD, sign in to [Read The Docs](https://readthedocs.org/accounts/login/), then go the project,
 and click the badge, then copy the markdown link.
 
 
