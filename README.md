@@ -2,7 +2,8 @@
 
 This is an example project to practice read the docs.
 
-[![Build Status](https://travis-ci.org/bhishanpdl/example.svg?branch=master)](https://travis-ci.org/bhishanpdl/example)[![Documentation Status](http://readthedocs.org/projects/bpexample/badge/?version=latest)](http://bpexample.readthedocs.io/en/latest/?badge=latest)
+[![Build Status](https://travis-ci.org/bhishanpdl/example.svg?branch=master)](https://travis-ci.org/bhishanpdl/example)[!
+[![Documentation Status](https://readthedocs.org/projects/bhishans-example/badge/?version=latest)](https://bhishans-example.readthedocs.io/en/latest/?badge=latest)
 
 
 ## Motivation
