@@ -2,8 +2,14 @@
 
 This is an example project to practice read the docs.
 
-[![Build Status](https://travis-ci.org/bhishanpdl/example.svg?branch=master)](https://travis-ci.org/bhishanpdl/example)
-[![Documentation Status](https://readthedocs.org/projects/bhishans-example/badge/?version=latest)](https://bhishans-example.readthedocs.io/en/latest/?badge=latest)
+
+
+[![Build Status](https://travis-ci.org/bhishanpdl/example.svg?branch=master)](https://travis-ci.org/bhishanpdl/example)[![Documentation Status](https://readthedocs.org/projects/bhishans-example/badge/?version=latest)](https://bhishans-example.readthedocs.io/en/latest/?badge=latest)
+
+Note: 
+1. To get the badge for Travis, sign in to [Travis](https://travis-ci.org/), click on the badge of your project and copy it.
+2. To get the badge for RDT, sign in to [Read The Docs](https://readthedocs.org/accounts/login/), then go the project,
+and click the badge, then copy the markdown link.
 
 
 ## Motivation
