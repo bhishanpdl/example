@@ -5,4 +5,8 @@ seaborn
 pathos
 scipy
 sklearn
+
+# for sphinx
 sphinx
+numpydoc
+sphinx-rtd-theme
